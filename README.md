@@ -13,3 +13,8 @@ An android app which with you can control your power-point presentation via volu
 3. Install now the presenter.apk on your android smartphone if not already done and start it. It looks like this: ![app on create](/doc/appOnCreate.png)
 <br></br> Here you have to enter the ip address from your pc which you picked on step 1. Enter it and click `OK`. It should look like this: <br></br>![app ip entered](/doc/appIpEntered.png)
 4. Now focus the power point presentation on your pc and let the python program run in background. You are now able to control the presentation with your volume buttons on your smartphone: `volume up` to go forward and `volume down` to go backward in the foils.
+
+## License
+**The MIT License (MIT)**
+
+Copyright © 2021 Eliah Vogel
