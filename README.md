@@ -1,5 +1,5 @@
 # Presenter app
-An android app which with you can control your power-point presentation via volume up/down buttons. For the serverside application python is used.
+An android app with which you can control your power-point presentation via volume up/down buttons. For the serverside application python is used.
 
 ## Requirements
 * `python` version 3.5 or newer
