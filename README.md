@@ -3,8 +3,8 @@ An android app with which you can control your power-point presentation via volu
 
 ## Requirements
 * `python` version 3.5 or newer
-* `pynput` (can easily installed by `pip install pynput`)
-* android smartphone
+* Package `pynput` (can easily installed by `pip install pynput`)
+* Android smartphone
 * PC and smartphone must be in the same local network
 
 ## Installation
